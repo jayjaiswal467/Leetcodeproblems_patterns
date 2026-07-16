@@ -2,41 +2,33 @@ class Solution {
 
     public int findNumbers(int[] nums) {
 
-        int count = 0;
+        int evenCount = 0;
 
         for (int num : nums) {
-            if (even(num)) {
-                count++;
+
+            int digitCount = 0;
+            int temp = num;
+
+            // Handle negative numbers (optional)
+            if (temp < 0) {
+                temp = -temp;
+            }
+
+            // Handle 0 separately
+            if (temp == 0) {
+                digitCount = 1;
+            }
+
+            while (temp > 0) {
+                digitCount++;
+                temp = temp / 10;
+            }
+
+            if (digitCount % 2 == 0) {
+                evenCount++;
             }
         }
 
-        return count;
-    }
-
-    public boolean even(int num) {
-
-        int nod = digit(num);
-
-        return nod % 2 == 0;
-    }
-
-    public int digit(int num) {
-
-        if (num < 0) {
-            num = -num;
-        }
-
-        if (num == 0) {
-            return 1;
-        }
-
-        int count = 0;
-
-        while (num > 0) {
-            count++;
-            num = num / 10;
-        }
-
-        return count;
+        return evenCount;
     }
 }
