@@ -7,21 +7,19 @@ class Solution {
         for (int num : nums) {
 
             int digitCount = 0;
-            int temp = num;
+            int t = num;
 
-            // Handle negative numbers (optional)
-            if (temp < 0) {
-                temp = -temp;
+            if (t < 0) {
+                t = -t;
             }
 
-            // Handle 0 separately
-            if (temp == 0) {
+            if (t == 0) {
                 digitCount = 1;
             }
 
-            while (temp > 0) {
+            while (t > 0) {
                 digitCount++;
-                temp = temp / 10;
+                t = t / 10;
             }
 
             if (digitCount % 2 == 0) {
