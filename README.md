@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
