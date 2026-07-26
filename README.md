@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0209-minimum-size-subarray-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/1672-richest-customer-wealth) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0209-minimum-size-subarray-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -64,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
