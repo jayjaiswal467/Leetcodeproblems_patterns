@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0142-linked-list-cycle-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0142-linked-list-cycle-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
