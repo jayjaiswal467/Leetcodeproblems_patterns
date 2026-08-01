@@ -10,11 +10,9 @@ class Solution {
 
         for (int i = 1; i < nums.length; i++) {
 
-            // Maximum 
             maxEnding = Math.max(maxEnding + nums[i], nums[i]);
             maxAns = Math.max(maxAns, maxEnding);
 
-            // Minimum 
             minEnding = Math.min(minEnding + nums[i], nums[i]);
             minAns = Math.min(minAns, minEnding);
         }
