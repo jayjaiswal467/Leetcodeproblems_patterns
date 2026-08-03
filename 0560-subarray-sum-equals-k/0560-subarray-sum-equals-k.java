@@ -11,12 +11,12 @@ class Solution {
         int sum = 0;
         int count = 0;
 
-        for(int num : nums){
+        for(int i : nums){
 
-            sum += num;
+            sum =sum + i;
 
             if(map.containsKey(sum-k)){
-                count += map.get(sum-k);
+                count = count+ map.get(sum-k);
             }
 
             map.put(sum,map.getOrDefault(sum,0)+1);
