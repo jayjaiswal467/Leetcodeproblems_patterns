@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0287-find-the-duplicate-number) |
+| [0724-find-pivot-index](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/1672-richest-customer-wealth) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0724-find-pivot-index) |
 ## Bit Manipulation
 |  |
 | ------- |
