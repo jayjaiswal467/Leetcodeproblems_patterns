@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0877-stone-game) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/1672-richest-customer-wealth) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
