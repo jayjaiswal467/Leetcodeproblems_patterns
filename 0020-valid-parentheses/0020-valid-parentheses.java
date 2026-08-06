@@ -21,7 +21,6 @@ class Solution {
                     return false;
                 }
 
-                // Check matching
                 if (ch == ')' && st.peek() != '(') {
                     return false;
                 }
@@ -34,7 +33,6 @@ class Solution {
                     return false;
                 }
 
-                // Remove matching opening bracket
                 st.pop();
             }
         }
