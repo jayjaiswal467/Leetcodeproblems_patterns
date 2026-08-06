@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -134,5 +135,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
