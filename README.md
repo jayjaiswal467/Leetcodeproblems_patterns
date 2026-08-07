@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0287-find-the-duplicate-number) |
+| [0503-next-greater-element-ii](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0724-find-pivot-index) |
@@ -136,9 +137,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
