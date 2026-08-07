@@ -9,7 +9,6 @@ class Solution {
 
         Stack<Integer> st = new Stack<>();
 
-        // Traverse twice because the array is circular
         for (int i = 2 * n - 1; i >= 0; i--) {
 
             int idx = i % n;
