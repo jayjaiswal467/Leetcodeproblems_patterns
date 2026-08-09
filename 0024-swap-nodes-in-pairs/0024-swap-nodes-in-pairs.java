@@ -68,7 +68,7 @@ class Solution {
             // Save node after the pair
             ListNode nextleft = right.next;
 
-            // Reverse the pair
+            // Reverse the pair.
             ListNode newHead = reverse(left, size);
 
             // Connect previous pair to current pair
