@@ -33,7 +33,6 @@ class Solution {
     }
 
 
-    // LeetCode calls this function
     public ListNode reverseKGroup(ListNode head, int k) {
 
         if (head == null || head.next == null || k == 1) {
@@ -54,7 +53,6 @@ class Solution {
 
             right = left;
 
-            // Find kth node
             for (int i = 0; i < size - 1; i++) {
 
                 if (right == null) {
@@ -65,13 +63,10 @@ class Solution {
             }
 
 
-            // Not enough nodes for a complete group
             if (right == null) {
                 break;
             }
 
-
-            // Save beginning of next group
             ListNode nextleft = right.next;
 
 
@@ -85,13 +80,12 @@ class Solution {
             }
 
 
-            // Store final head
             if (res == null) {
                 res = newHead;
             }
 
 
-            // 'left' becomes the last node
+            // left becomes the last node
             // of the reversed group
             prevleft = left;
 
