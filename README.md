@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0141-linked-list-cycle) |
@@ -157,5 +158,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
