@@ -59,8 +59,6 @@ class Solution {
 
             else {
                 ans = guess;
-
-                // Search further right
                 low = guess + 1;
             }
         }
