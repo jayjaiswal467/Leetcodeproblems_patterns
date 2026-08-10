@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0877-stone-game) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0704-binary-search) |
 ## Linked List
 |  |
 | ------- |
