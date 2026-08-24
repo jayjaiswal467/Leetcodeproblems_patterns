@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0977-squares-of-a-sorted-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0875-koko-eating-bananas) |
 ## Linked List
 |  |
 | ------- |
