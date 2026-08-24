@@ -29,7 +29,7 @@ class Solution {
                 }
             continue;
             }
-            
+
 
             //PART 2 MEIN GUESS LAND HUA HAI
             if(a[guess]>target){
@@ -38,9 +38,11 @@ class Solution {
             }
             else{
                 if(a[n-1]<target){
+                    //move left
                     high=guess-1;
                 }
                 else{
+                    //move right
                     low=guess+1;
                 }
             }
