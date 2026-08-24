@@ -32,7 +32,7 @@ class Solution {
         return res;
     }
 
-    public long hourcalc(int[] a,int n,int speed){
+    public long hourcalc(int[] a,int n,int speed){  //INT TESTCASE FAIL HO RHA THA ISILIYE LONG USE KIYA 
         long h=0;
 
         for(int i=0;i<n;i++){
