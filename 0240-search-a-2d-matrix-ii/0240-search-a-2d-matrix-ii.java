@@ -3,7 +3,7 @@ class Solution {
         int n = matrix.length;
         int m =matrix[0].length;
 
-        int row=n-1;
+        int row=n-1; // we start last row first colum corner element and check it from there if true then return true if greater reduce row else increase column 
         int col = 0;
 
         while(row>=0 && col<m){
