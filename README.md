@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0503-next-greater-element-ii](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0560-subarray-sum-equals-k) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0875-koko-eating-bananas) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0088-merge-sorted-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -192,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0852-peak-index-in-a-mountain-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
