@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0986-interval-list-intersections) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0986-interval-list-intersections) |
 ## Binary Search
 |  |
 | ------- |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
