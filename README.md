@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0152-maximum-product-subarray) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0141-linked-list-cycle) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0088-merge-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0389-find-the-difference) |
@@ -214,8 +217,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0075-sort-colors) |
 ## Sweep Line
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0986-interval-list-intersections) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
