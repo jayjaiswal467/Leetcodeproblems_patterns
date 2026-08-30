@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0074-search-a-2d-matrix) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0061-rotate-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0142-linked-list-cycle-ii) |
