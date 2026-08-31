@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0986-interval-list-intersections) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0389-find-the-difference) |
 | [0525-contiguous-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/1189-maximum-number-of-balloons) |
 ## String
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
