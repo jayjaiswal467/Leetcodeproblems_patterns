@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0724-find-pivot-index) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0287-find-the-duplicate-number) |
+| [0658-find-k-closest-elements](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0986-interval-list-intersections) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0875-koko-eating-bananas) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0389-find-the-difference) |
+| [0658-find-k-closest-elements](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0973-k-closest-points-to-origin) |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0424-longest-repeating-character-replacement) |
+| [0658-find-k-closest-elements](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
@@ -245,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0973-k-closest-points-to-origin) |
