@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0986-interval-list-intersections) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0875-koko-eating-bananas) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -112,12 +114,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0977-squares-of-a-sorted-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quicksort
 |  |
 | ------- |
