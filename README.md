@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0904-fruit-into-baskets) |
+| [0973-k-closest-points-to-origin](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0986-interval-list-intersections) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0389-find-the-difference) |
 | [0692-top-k-frequent-words](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0767-reorganize-string) |
+| [0973-k-closest-points-to-origin](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0767-reorganize-string) |
+| [0973-k-closest-points-to-origin](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0973-k-closest-points-to-origin) |
 ## Quicksort
 |  |
 | ------- |
@@ -261,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -274,4 +280,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0767-reorganize-string) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
