@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0039-combination-sum](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0057-insert-interval) |
@@ -327,4 +328,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/jayjaiswal467/Leetcodeproblems_patterns/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
