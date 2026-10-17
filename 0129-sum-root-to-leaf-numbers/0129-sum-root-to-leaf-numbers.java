@@ -28,7 +28,7 @@ class Solution {
         sum = sum*10+root.val;
 
         if(root.left==null && root.right==null){
-            res = res+sum;
+            res+=sum;
             return;
         }
         fun(root.left,sum);
